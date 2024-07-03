@@ -1,0 +1,14 @@
+regex
+pandas
+tqdm
+nltk
+transformers
+gensim
+scikit-learn
+six
+PyYAML
+setuptools
+torchtext
+scipy
+bayesian-optimization
+loguru
